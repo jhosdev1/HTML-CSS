@@ -1,0 +1,34 @@
+.main-nav{
+    margin-top: 30px;
+    margin-bottom: 0;
+    list-style: none;
+    padding-left: 20px;
+    background-color: #13a4a4;
+}
+
+
+.main-nav__item{
+    display: inline-block;
+    margin: 30px;
+}
+.main-nav__item a{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-color: dimgray;
+    border-style: dashed;
+    border-width: 1px;
+    border-radius: 9px;
+    text-decoration: none;
+}
+
+.main-nav__item a:hover{
+    background-color: white;
+    color: #13a4a4;
+    border-style: none;
+}
+.main-nav__item a:active{
+    background-color: white;
+    color:#13a4a4;
+    font-weight: bold;
+}
