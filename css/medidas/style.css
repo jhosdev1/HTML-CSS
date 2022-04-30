@@ -1,0 +1,28 @@
+main{
+    background-color:#13a4a4;
+    width: 100vw;
+    height: 100vh;
+}
+/* 
+.container{
+    font-size: 1.5em;
+} */
+html{
+    font-size: 62.5%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+p{
+    width: 80%;
+    min-width: 50rem;
+    max-width: 102.4rem;
+    max-height: 60rem;
+    margin: 0 auto;
+    background-color: rebeccapurple;
+    font-size: 2rem;
+}
+
