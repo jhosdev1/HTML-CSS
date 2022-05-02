@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header{
+    width: 100vw;
+    height: 15vh;
+}
+.header-log{
+    display: inline-block;
+}
+.header-log img{
+    width: 6rem;
+    height: 7rem;
+    margin: 1rem 1.5rem;
+}
+.header-nav{
+    display: inline-block;
+    position: absolute;
+    right: 3vw;
+    top: 6vh;
+}
+.header-nav ul{
+    font-size: 1.4rem;
+    list-style: none;
+}
+.header-nav li{
+    display: inline-block;
+    margin-left: 2rem;
+}
+.header-nav a{
+    text-decoration: none;
+    color: #cb2228;
+    background-color: white;
+    padding: 0.6rem 2rem;
+    border-radius: 0.7rem;
+}
+.header-nav a:hover{
+    background-color: #cb2228;
+    color: white;
+}
+.sidebar{
+    display: inline-block;
+    margin: 2rem;
+}
+.content{
+    display: inline-block;
+    position: absolute;
+    font-size: 2rem;
+    margin-top: 5rem;
+    color: white;
+}
+.artista{
+    display: inline-block;
+    margin: 1.5rem;
+}
+.artista img{
+    width: 15rem;
+    height: 15rem;
+}
+.img1{
+    box-shadow: 0 0 2rem #0e0e0e;
+}
+.img2{
+    box-shadow: 0 0 2rem #fe002e;
+}
+.img3{
+    box-shadow: 0 0 2rem white;
+}
+.img4{
+    box-shadow: 0 0 2rem  #6f6f6d;
+}
+.fondo{
+    position: absolute;
+    background-image: url("https://www.xtrafondos.com/wallpapers/resized/michael-jordan-logo-5021.jpg?s=large");
+    background-position: center;
+    top: 15vh;
+    width: 100vw;
+    height: 85vh;
+}
+.container{
+    position: absolute;
+}
