@@ -13,6 +13,7 @@ header{
     display: flex;
     align-items: center;
     height: 20vh;
+    min-height: 20vh;
 }
 .header-box1{
     flex-grow: 1;
@@ -67,6 +68,7 @@ figure{
 main{
     display: flex;
     height: 75vh;
+    min-height: 75vh;
     flex-wrap: wrap;
     background-color: black;
 }
@@ -95,7 +97,7 @@ main{
 }
 footer{
     display: flex;
-    height: 5vh;
+    min-height: 5vh;
     align-items: center;
     justify-content: center;
     background-color: white;
