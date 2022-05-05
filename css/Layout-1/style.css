@@ -12,7 +12,6 @@ body{
 header{
     display: flex;
     align-items: center;
-    height: 20vh;
     min-height: 20vh;
 }
 .header-box1{
@@ -67,8 +66,7 @@ figure{
 
 main{
     display: flex;
-    height: 75vh;
-    min-height: 75vh;
+    min-height: 80vh;
     flex-wrap: wrap;
     background-color: black;
 }
