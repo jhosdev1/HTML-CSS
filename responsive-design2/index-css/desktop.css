@@ -1,0 +1,13 @@
+.container{
+    height: 100%;
+    border-radius: 0;
+}
+.box-boton a{
+    width: 20%;
+}
+.box-titulo{
+    font-size: 3rem;
+}
+.box-input input{
+    font-size: 3.2rem;
+}

@@ -1,0 +1,7 @@
+.container{
+    flex-wrap: nowrap;
+}
+.bloque{
+    width: 60%;
+    height: 100%;
+}
