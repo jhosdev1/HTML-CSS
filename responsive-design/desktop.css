@@ -1,0 +1,16 @@
+.box{
+    height: 100vh;
+}
+.box-texto{
+    height: 30%;
+}
+.input{
+    font-size: 2.5rem;
+}
+.input input{
+    font-size: 2.5rem;
+}
+.input a{
+    width: 9rem;
+    height: 9rem;
+}
